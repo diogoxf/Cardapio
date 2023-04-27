@@ -1,0 +1,153 @@
+body {
+
+  background-color: rgb(189, 108, 3);
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #a32b10;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 80%;
+  height: 40px;
+}
+
+.iconepizza{
+max-width: 30%;
+}
+.pedido{
+  
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #693001;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 40%;
+  max-width: 400px;
+}
+
+.linkpedido{
+  text-decoration: none;
+  color: white;
+}
+.menu-pizza {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-pizza li {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #a32b10;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 20%;
+  max-width: 400px;
+}
+
+.menu-pizza li:hover {
+  background-color: #fff;
+  color: #aa2403;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.cardapio-grande {
+  background-color: #ddd;
+  color: #555;
+  font-size: 16px;
+  padding: 5px;
+  text-align: center;
+  width: 80%;
+  max-width: 400px;
+}
+
+.cardapio-media {
+  background-color: #ddd;
+  color: #555;
+  font-size: 16px;
+  padding: 5px;
+  text-align: center;
+  width: 80%;
+  max-width: 400px;
+}
+
+.cardapio-pequeno {
+    
+  background-color: #ddd;
+  color: #555;
+  font-size: 16px;
+  padding: 5px;
+  text-align: center;
+  width: 80%;
+  max-width: 400px;
+}
+p{
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #000000;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 80%;
+  max-width: 400px;
+}
+.Endereço {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #000000;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 80%;
+  max-width: 400px;
+}
+.info{
+  text-decoration: none;
+       font-family: Arial, Helvetica, sans-serif; 
+       font-size: 16px;
+       font-weight: bold;
+       text-align: center;
+       margin: 10px auto;
+       padding: 10px 20px;
+       color: #fff;
+       background-color: #a32b10;
+       border-radius: 20px;
+       cursor: pointer;
+       transition: all 0.2s ease-in-out;
+       display: block;
+       width: 30%;
+       max-width: 400px;
+}
+.autoral{
+ 
+ text-align: center;
+}
